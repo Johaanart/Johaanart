@@ -91,10 +91,10 @@
   <a href="www.linkedin.com/in/johan-gonzalez-lemus" target="_blank">
     <img align="center" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/johaan_art?igsh=MW5rdndiOXR4cXIwaA%3D%3D&utm_source=qr" target="_blank">
     <img align="center" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:correo@ejemplo.com">
+  <a href="jgonzalezl11@ucentral.edu.co">
     <img align="center" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 </p>
