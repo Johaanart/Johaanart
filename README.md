@@ -25,19 +25,14 @@
 </p>
 
 <pre>
-💻 Desarrollador de software con enfoque en Backend y soluciones empresariales
-📚 Estudiante de Ingeniería de Sistemas (últimos semestres) con experiencia práctica
-🧠 Desarrollo de plugins WordPress y sistemas backend con PHP y MySQL
-🩺 Creador del sistema de historial clínico veterinario Marvet (en uso real)
-📁 Programación orientada a gestión y procesamiento de archivos
-🎮 Desarrollo de videojuegos:
-   • Brújula → videojuego desarrollado en Python
-   • Videojuego 2D desarrollado en Unity
-📊 Análisis de datos y dashboards con Excel y Power BI
-🤖 Proyectos en Inteligencia Artificial, Machine Learning y Chatbots
-🌱 Aprendizaje continuo en arquitectura de software y ciberseguridad
-🌟 Lenguajes principales: PHP, Python y Java
-🚀 Interés profesional en Backend, Full Stack e IA aplicada
+  Desarrollador de software con enfoque en Backend y soluciones empresariales
+  Desarrollo de plugins WordPress y sistemas backend con PHP y MySQL
+  Creador del sistema de historial clínico veterinario Marvet (en uso real)
+  Análisis de datos y dashboards con Excel y Power BI
+  Proyectos en Inteligencia Artificial, Machine Learning y Chatbots
+  Aprendizaje continuo en arquitectura de software y ciberseguridad
+  Lenguajes principales: PHP, Python y Java
+  Interés profesional en Backend, Full Stack e IA aplicada
 </pre>
 
 <hr>
