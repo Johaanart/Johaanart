@@ -1,99 +1,116 @@
-<p align="center"> 
-  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" />
+<!-- Banner animado superior -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0284c7&height=180&section=header&text=Johan%20Gonz%C3%A1lez&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20Applied%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 </p>
 
-<h1 align="center">
-  <b>Hola, soy Johan</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-
+<!-- Subtítulo dinámico -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-  color=%2336BCF7
-  &size=25
-  &center=true
-  &vCenter=true
-  &width=900
-  &height=75
-  &lines=Bienvenido+a+mi+perfil+de+GitHub;
-  Ingeniero+de+Sistemas;
-  Desarrollador+Backend+%7C+PHP+%26+Python;
-  Sistemas+de+Gesti%C3%B3n+de+Archivos;
-  Videojuegos+en+Python+%7C+Unity+2D;
-  WordPress+%7C+MySQL+%7C+APIs+REST;
-  IA+%7C+Machine+Learning+%7C+Chatbots" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Ingeniero+de+Sistemas+%7C+Full+Stack+%26+IA+Aplicada;Deep+Learning+(U-Net+%2F+LiteRT)+%26+Edge+Computing;React+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+Supabase+%E2%80%A2+PHP;Arquitectura+de+Software%2C+Seguridad+RLS+%26+Cloud+Deploy" alt="Typing SVG" />
 </p>
 
-<pre>
-  Desarrollador de software con enfoque en Backend y soluciones empresariales
-  Desarrollo de plugins WordPress y sistemas backend con PHP y MySQL
-  Creador del sistema de historial clínico veterinario Marvet (en uso real)
-  Análisis de datos y dashboards con Excel y Power BI
-  Proyectos en Inteligencia Artificial, Machine Learning y Chatbots
-  Aprendizaje continuo en arquitectura de software y ciberseguridad
-  Lenguajes principales: PHP, Python y Java
-  Interés profesional en Backend, Full Stack e IA aplicada
-</pre>
-
-<hr>
-
-<h2 align="center">
-  💻 Tech Stack
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
-</h2>
-
-<!-- Lenguajes -->
+<!-- Badges de Contacto -->
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-darkblue.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-Unity-%236C2DC7?style=for-the-badge&logo=unity&logoColor=white">
-</p>
-
-<!-- Backend / Web -->
-<p align="center">
-  <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/APIs-REST-%2300ADD8?style=for-the-badge">
-</p>
-
-<!-- Videojuegos -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-2D-%23000000?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/Game%20Dev-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
-
-<!-- Datos -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black">
-</p>
-
-<!-- IA -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-%2300C853.svg?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Chatbots%20IA-%234285F4.svg?style=for-the-badge">
-</p>
-
-<hr>
-
-<div align="center">
-  <h3><b>📬 Información de contacto</b></h3>
-</div>
-
-<p align="center">
-  <!-- Reemplaza los enlaces con los tuyos -->
   <a href="https://www.linkedin.com/in/johan-gonzalez-lemus" target="_blank">
-    <img align="center" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/johaan_art?igsh=MW5rdndiOXR4cXIwaA%3D%3D&utm_source=qr" target="_blank">
-    <img align="center" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:jgonzalezl11@ucentral.edu.co">
-    <img align="center" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/johaan_art" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
+---
+
+### Sobre mí
+
+Ingeniero de Sistemas enfocado en el desarrollo **Full Stack**, arquitectura **Backend** y soluciones de **Inteligencia Artificial Aplicada**. Experiencia construyendo desde sistemas empresariales en producción hasta modelos de visión por computador desplegados en hardware embebido y aplicaciones web seguras en la nube.
+
+- 🩺 **IA & Sistemas Embebidos:** Co-creador de **Nova Luz**, sistema clínico de segmentación de úlceras de pie diabético con redes **U-Net (LiteRT/TFLite)**, backend en **FastAPI** y control en tiempo real sobre **ESP32-S3 (FreeRTOS)**.
+- 🎵 **Desarrollo Web Moderno & Seguridad:** Creador de **Ritmo Trivia Musical BTL**, aplicación gamificada en producción con **React, TypeScript, Supabase (PostgreSQL + RLS)** y despliegue continuo en **Vercel**.
+- 🐾 **Software Empresarial en Producción:** Creador de **Marvet**, sistema de gestión e historial clínico veterinario en uso real desarrollado con **PHP, WordPress y MySQL**.
+- 🛡️ **Buenas Prácticas:** Enfoque en arquitectura limpia (patrón Repository, ADRs), seguridad web (**RLS**, mitigación **XSS**), análisis de datos (**Power BI / Python**) y flujos ágiles con IA.
+
+---
+
+### Proyectos Destacados
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 Nova Luz — IA Clínica & Embebidos</h3>
+      <p>Sistema inteligente de segmentación de úlceras de pie diabético mediante red neuronal <b>U-Net</b> exportada a <b>LiteRT/TFLite</b> en Raspberry Pi, panel médico en <b>FastAPI</b> con patrón Repository y control de electroestimulación en <b>ESP32-S3 (FreeRTOS)</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Johaanart/pie-diabetico-ia">🔗 Ver Repositorio</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎵 Ritmo Trivia Musical BTL</h3>
+      <p>Aplicación web gamificada para activaciones de marca en tiempo real. Arquitectura Full Stack con frontend en <b>React + TypeScript + Tailwind</b>, backend en <b>Supabase</b> con políticas estrictas de seguridad <b>RLS</b>, validación anti-XSS y CI/CD en <b>Vercel</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      </p>
+      <a href="https://ritmo-trivia-musical-btl.vercel.app">🌐 App en Vivo</a> • <a href="https://github.com/Johaanart/ritmo-trivia-musical-btl">🔗 Repositorio</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+**Lenguajes**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+**Frontend & Web**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+**Backend, Bases de Datos & Cloud**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**IA, Visión por Computador & Datos**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow_%2F_LiteRT-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
+
+---
+
+### Estadísticas & Actividad en GitHub
+
 <p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Johaanart&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johaanart&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Footer animado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%" />
 </p>
