@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0284c7&height=180&section=header&text=Johan%20Gonz%C3%A1lez&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20Applied%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 </p>
 
-<!-- Subtítulo dinámico -->
+<!-- Subtítulo dinámico (URL XML-safe corregida) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Ingeniero+de+Sistemas+%7C+Full+Stack+%26+IA+Aplicada;Deep+Learning+(U-Net+%2F+LiteRT)+%26+Edge+Computing;React+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+Supabase+%E2%80%A2+PHP;Arquitectura+de+Software%2C+Seguridad+RLS+%26+Cloud+Deploy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=Ingeniero+de+Sistemas+%7C+Full+Stack+y+IA+Aplicada;Deep+Learning+(U-Net+%2F+LiteRT)+y+Edge+Computing;React+%7C+TypeScript+%7C+FastAPI+%7C+Supabase+%7C+PHP;Arquitectura+de+Software%2C+Seguridad+RLS+y+Cloud+Deploy" alt="Typing SVG" />
 </p>
 
 <!-- Badges de Contacto -->
@@ -23,7 +23,7 @@
 
 ---
 
-### Sobre mí
+### 👨‍💻 Sobre mí
 
 Ingeniero de Sistemas enfocado en el desarrollo **Full Stack**, arquitectura **Backend** y soluciones de **Inteligencia Artificial Aplicada**. Experiencia construyendo desde sistemas empresariales en producción hasta modelos de visión por computador desplegados en hardware embebido y aplicaciones web seguras en la nube.
 
@@ -34,7 +34,7 @@ Ingeniero de Sistemas enfocado en el desarrollo **Full Stack**, arquitectura **B
 
 ---
 
-### Proyectos Destacados
+### 🚀 Proyectos Destacados
 
 <table align="center">
   <tr>
@@ -65,7 +65,7 @@ Ingeniero de Sistemas enfocado en el desarrollo **Full Stack**, arquitectura **B
 
 ---
 
-### Tech Stack
+### 💻 Tech Stack
 
 <div align="center">
 
@@ -103,11 +103,15 @@ Ingeniero de Sistemas enfocado en el desarrollo **Full Stack**, arquitectura **B
 
 ---
 
-### Estadísticas & Actividad en GitHub
+### 📊 Estadísticas & Actividad en GitHub
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Johaanart&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johaanart&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Johaanart&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Johaanart&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Johaanart&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- Footer animado -->
